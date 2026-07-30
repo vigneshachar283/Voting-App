@@ -19,9 +19,6 @@ const jwtAuthMiddleware = (req, res, next) => {
         res.status(401).json({ error: 'Invalid token' });
     }
 }
-
-
-
 const generateToken = (userData) => {
    
     return jwt.sign(userData, process.env.JWT_SECRET, {expiresIn: 30000});
