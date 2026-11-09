@@ -104,6 +104,7 @@ Protected operations include:
 
 ---
 
+
 ## 🔒 Security Features
 
 - Password hashing using bcrypt
