@@ -16,6 +16,7 @@ A secure backend-based Voting Application built using **Node.js, Express.js, Mon
 - Aadhaar Number Validation
 - Duplicate Account Prevention
 
+
 ### Admin Features
 - Add Candidates
 - Update Candidate Details
