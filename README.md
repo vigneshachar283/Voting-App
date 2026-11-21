@@ -2,6 +2,7 @@
 
 A secure backend-based Voting Application built using **Node.js, Express.js, MongoDB, JWT Authentication, and Mongoose**. The application allows users to register, authenticate, vote for candidates, and enables administrators to manage candidates while ensuring that each voter can vote only once.
 
+
 ---
 ## 🚀 Features
 
