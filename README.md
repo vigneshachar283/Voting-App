@@ -4,7 +4,6 @@ A secure backend-based Voting Application built using **Node.js, Express.js, Mon
 
 ---
 
-
 ## 🚀 Features
 
 ### User Features
